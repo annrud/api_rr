@@ -30,7 +30,7 @@ Python, Django REST Framework, Simple JWT, PostgreSQL, docker-compose, git
 
 ## Этапы и команды для сборки и запуска приложения:
 1. Клонируйте проект в рабочую директорию:<br> 
-```git clone https://github.com/annrud/api_yamdb.git```
+```git clone https://github.com/annrud/api_rr.git```
 3. Создайте файл .env (в директории с settings.py) с переменными окружения<br> 
 DB_ENGINE, DB_NAME, POSTGRES_USER, POSTGRES_PASSWORD, DB_HOST, DB_PORT, SECRET_KEY.<br>
 5. Установите docker и docker-compose
